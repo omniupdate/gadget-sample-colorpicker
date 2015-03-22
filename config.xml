@@ -5,5 +5,5 @@
 	<entry key="title">Color Picker</entry>
 	<entry key="icon" private="true">icon.png</entry>
 	<entry key="initial_height" private="true">300</entry>
-	<entry key="initial_color" label="Starting Color" overwritable="true">#b8ff00</entry>
+	<entry key="initial_color" label="Starting Color" overwritable="true">#05d7dd</entry>
 </config>
