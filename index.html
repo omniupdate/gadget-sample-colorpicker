@@ -49,7 +49,7 @@
 			setColor(data.initial_color);
 		});
 		
-		gadget.fetch().then(function () {
+		gadget.ready().then(gadget.fetch).then(function () {
 			var color = gadget.getConfig('initial_color');
 			setColor(color);
 		});
