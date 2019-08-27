@@ -4,7 +4,7 @@ A sample Gadget for the [OU Campus™ web content management system](http://www.
 
 ## Installation
 
-Refer to the [OmniUpdate Support documentation](http://support.omniupdate.com/oucampus10/setup/gadgets/new-gadget.html) for instructions on how to install custom Gadgets.
+Refer to the [OmniUpdate Support documentation](https://support.omniupdate.com/learn-ou-campus/administration/setup/gadgets.html#addingcustomgadgets) for instructions on how to install custom Gadgets.
 
 ## Resources
 
